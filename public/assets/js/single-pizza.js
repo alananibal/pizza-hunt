@@ -176,6 +176,7 @@ function handleNewReplySubmit(event) {
     });
 }
 
+
 $backBtn.addEventListener('click', function() {
   window.history.back();
 });
